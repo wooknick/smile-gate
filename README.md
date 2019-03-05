@@ -4,10 +4,6 @@ If you want to enter the website, you need to smile.
 
 ***
 
-<a name="resources"></a>
-
-# Resources
-
 <a name="live-demos"></a>
 
 ## Live Demos
