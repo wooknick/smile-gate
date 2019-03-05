@@ -14,7 +14,7 @@ if (navigator.mediaDevices.getUserMedia) {
 // load pretrained models
 async function loadModels() {
     //await faceapi.loadSsdMobilenetv1Model('/models')
-    await faceapi.loadTinyFaceDetectorModel("/models");
+    await faceapi.loadTinyFaceDetectorModel("../models");
     //await faceapi.loadFaceLandmarkModel('/models')
     //await faceapi.loadFaceRecognitionModel('/models')
     await faceapi.loadFaceExpressionModel("/models");
